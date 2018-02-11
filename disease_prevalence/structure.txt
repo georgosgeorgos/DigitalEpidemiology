@@ -1,0 +1,12 @@
+Digital Epidemiology
+
+
+./CODE/MODEL_BUILDING: build ground truth and features for depression
+./CODE/CORRELATION_STUDY: correlation study for depression
+./CODE/MODEL_PREDICTION: predictive model for depression
+
+./data/ data for the depression model
+./images/ images for correlation study
+
+./CODE/olos/ automated regression analysis and model selection for all the diseases
+
